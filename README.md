@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mercy Chepngeno
 
-I'm a **fullstack developer** passionate about building fast, scalable, and user-focused web applications. From sleek React/Vue frontends to robust backend architectures with Python, Node.js, and .NET — I love shipping polished products that solve real-world problems.
+I'm a **fullstack developer** passionate about building fast, scalable, and user-focused web applications. From sleek React/Vue frontends to robust backend architectures with Python, Node.js, and .NET  I love shipping polished products that solve real-world problems.
 
 ---
 
