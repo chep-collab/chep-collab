@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👩‍💻 Hi, I'm Mercy Chepngeno
 
-<!--
-**chep-collab/chep-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **fullstack web developer** with a frontend-first mindset and backend flexibility. I craft fast, responsive interfaces using React, Vue, and Tailwind CSS — and power them with scalable backend solutions like Express, Node.js, .NET, and Python.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**  
+React • Vue • JavaScript • TypeScript • Tailwind CSS
+
+**Backend**  
+Node.js • Express.js • Python • .NET
+
+**DevOps & Deployment**  
+Vite • Firebase • Git • GitHub • Vercel • Netlify
+
+**Currently Learning**  
+🔍 Mastering Data Structures & Algorithms (DSA)  
+🎯 Deepening algorithmic thinking for interviews & optimization
+
+## 💡 Projects
+
+| Name          | Stack                        | Live Demo |
+|---------------|------------------------------|-----------|
+| **ShopStream** | React + Tailwind + Firebase-ready | [Live](https://shopstream-arn7.vercel.app) |
+| **Dashboard**  | Vue + Vite + Tailwind         | *(Coming Soon)* |
+| **Online Shopping (v1)** | React + Router         | *(Coming Soon)* |
+
+## 📫 Contact Me
+
+📧 mercychepngeno582@gmail.com  
+🔗 [GitHub](https://github.com/chep-collab)
+
+---
+
+> I build polished products from pixel to payload — optimized for humans and machines.
