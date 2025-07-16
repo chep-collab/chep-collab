@@ -1,35 +1,65 @@
-# 👩‍💻 Hi, I'm Mercy Chepngeno
+# 👋 Hi, I'm Mercy Chepkemoi
 
-I'm a **fullstack web developer** with a frontend-first mindset and backend flexibility. I craft fast, responsive interfaces using React, Vue, and Tailwind CSS — and power them with scalable backend solutions like Express, Node.js, .NET, and Python.
+I'm a **fullstack developer** passionate about building fast, scalable, and user-focused web applications. From sleek React/Vue frontends to robust backend architectures with Python, Node.js, and .NET — I love shipping polished products that solve real-world problems.
 
-## 🛠 Tech Stack
+---
 
-**Frontend**  
-React • Vue • JavaScript • TypeScript • Tailwind CSS
+## 🧠 What I Do
 
-**Backend**  
-Node.js • Express.js • Python • .NET
+- ⚛️ Craft frontend interfaces with React, Vue, Tailwind, TypeScript
+- 🧠 Build backend logic using Node.js, Express, Python, and .NET
+- 🚀 Deploy projects seamlessly via Vercel, Netlify, GitHub Pages
+- 📄 Document projects with clear, recruiter-friendly READMEs
+- 📚 Learn and implement DSA to strengthen problem-solving
 
-**DevOps & Deployment**  
-Vite • Firebase • Git • GitHub • Vercel • Netlify
+---
 
-**Currently Learning**  
-🔍 Mastering Data Structures & Algorithms (DSA)  
-🎯 Deepening algorithmic thinking for interviews & optimization
+## 🔧 Tech Stack
 
-## 💡 Projects
+### Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-| Name          | Stack                        | Live Demo |
-|---------------|------------------------------|-----------|
-| **ShopStream** | React + Tailwind + Firebase-ready | [Live](https://shopstream-arn7.vercel.app) |
-| **Dashboard**  | Vue + Vite + Tailwind         | *(Coming Soon)* |
-| **Online Shopping (v1)** | React + Router         | *(Coming Soon)* |
+### Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Tools & Deployment  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🎯 Currently Learning  
+![DSA](https://img.shields.io/badge/Learning-DSA-yellow?style=for-the-badge&logo=leetcode&logoColor=white)
+
+Studying Data Structures & Algorithms to sharpen my coding logic, problem-solving, and technical interview readiness.
+
+---
+
+## 🚀 Featured Projects
+
+| Project       | Description                                | Live Demo |
+|---------------|--------------------------------------------|-----------|
+| **ShopStream** | E-commerce UI with React + Tailwind         | [Live](https://shopstream-arn7.vercel.app) |
+| **Dashboard**  | Admin panel built with Vue + Vite           | *(Coming Soon)* |
+| **VUE-APP**    | Responsive Vue starter template             | *(Coming Soon)* |
+
+---
 
 ## 📫 Contact Me
 
 📧 mercychepngeno582@gmail.com  
-🔗 [GitHub](https://github.com/chep-collab)
+💼 [GitHub Profile](https://github.com/chep-collab)
 
 ---
 
-> I build polished products from pixel to payload — optimized for humans and machines.
+> I build from interface to infrastructure — with clarity, speed, and empathy. Let's create something extraordinary.
