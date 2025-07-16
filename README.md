@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Mercy Chepngeno
 
-I'm a **fullstack developer** passionate about building fast, scalable, and user-focused web applications. From sleek React/Vue frontends to robust backend architectures with Python, Node.js, and .NET  I love shipping polished products that solve real-world problems.
+I'm a **fullstack developer** specializing in frontend-first experiences and robust backend systems. I craft modern interfaces using React, Vue, and Tailwind CSS — and power them with scalable APIs and logic using Node.js, .NET, Express, and Python. Currently diving deep into Data Structures & Algorithms to sharpen my problem-solving edge.
 
 ---
 
 ## 🧠 What I Do
 
-- ⚛️ Craft frontend interfaces with React, Vue, Tailwind, TypeScript
-- 🧠 Build backend logic using Node.js, Express, Python, and .NET
-- 🚀 Deploy projects seamlessly via Vercel, Netlify, GitHub Pages
-- 📄 Document projects with clear, recruiter-friendly READMEs
-- 📚 Learn and implement DSA to strengthen problem-solving
+- ⚛️ Design and develop responsive UIs with React, Vue, JavaScript, and TypeScript
+- 🎨 Style with precision using Tailwind CSS, PostCSS, and component-based workflows
+- 🔙 Build backend services using Node.js, Express, Python, and .NET
+- 🚀 Deploy fullstack apps to Vercel, Netlify, and GitHub Pages
+- 🧠 Explore advanced problem solving through DSA and algorithm design
 
 ---
 
@@ -33,7 +33,6 @@ I'm a **fullstack developer** passionate about building fast, scalable, and user
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -41,25 +40,33 @@ I'm a **fullstack developer** passionate about building fast, scalable, and user
 ## 🎯 Currently Learning  
 ![DSA](https://img.shields.io/badge/Learning-DSA-yellow?style=for-the-badge&logo=leetcode&logoColor=white)
 
-Studying Data Structures & Algorithms to sharpen my coding logic, problem-solving, and technical interview readiness.
+Exploring algorithmic strategies, problem-solving efficiency, and preparing for technical interviews by mastering core data structures.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project       | Description                                | Live Demo |
-|---------------|--------------------------------------------|-----------|
-| **ShopStream** | E-commerce UI with React + Tailwind         | [Live](https://shopstream-arn7.vercel.app) |
-| **Dashboard**  | Admin panel built with Vue + Vite           | *(Coming Soon)* |
-| **VUE-APP**    | Responsive Vue starter template             | *(Coming Soon)* |
+| Project               | Description                                                     | Demo / Repo |
+|------------------------|-----------------------------------------------------------------|--------------|
+| **ShopStream**         | E-commerce UI with React, Tailwind CSS, and Firebase-ready      | [Live](https://shopstream-arn7.vercel.app) |
+| **Cofacility Landing** | Responsive Vue-based landing page for facility onboarding       | [Repo](https://github.com/chep-collab/cofacility-landing) |
+| **Local Care Connect** | Healthcare platform w/ real-time chat & caregiver directories   | [Repo](https://github.com/chep-collab/local-care-connect) |
+| **Clipboard**          | CLI clipboard manager with multi-board support & file streaming | [Repo](https://github.com/Slackadays/Clipboard) |
+| **.NET Web Project**   | Backend-focused dashboard built with .NET and Blazor            | *Coming Soon* |
+
+---
+
+## 🧑‍💼 Recruiter Pitch
+
+> I'm a fullstack developer who thrives on shipping clean, scalable projects — from dynamic frontends to well-structured backend logic. My portfolio reflects strong problem-solving, clear documentation, and real deployment skills. Whether you're hiring for a frontend role with depth or a fullstack position with versatility, I bring both polish and execution.
 
 ---
 
 ## 📫 Contact Me
 
 📧 mercychepngeno582@gmail.com  
-💼 [GitHub Profile](https://github.com/chep-collab)
+🌐 [GitHub](https://github.com/chep-collab)
 
 ---
 
-> I build from interface to infrastructure — with clarity, speed, and empathy. Let's create something extraordinary.
+> “I build from interface to infrastructure — with clarity, speed, and empathy. Let's create something extraordinary.”
