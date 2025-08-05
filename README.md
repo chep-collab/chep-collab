@@ -56,7 +56,7 @@ Exploring algorithmic strategies, problem-solving efficiency, and preparing for 
 
 ---
 
-## 🧑‍💼 Recruiter Pitch
+##  Hire me
 
 > I'm a fullstack developer who thrives on shipping clean, scalable projects — from dynamic frontends to well-structured backend logic. My portfolio reflects strong problem-solving, clear documentation, and real deployment skills. Whether you're hiring for a frontend role with depth or a fullstack position with versatility, I bring both polish and execution.
 
